@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/saich/OneDrive/Desktop/Sequential/FSM
+vseq_det
+Z0 !s110 1760104459
+!i10b 1
+!s100 inSIIM4O6U`F<gcNRmF]]1
+IUBSgPe:h2OJO=560eE_M]0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/saich/OneDrive/Desktop/Sequential/FSM/Mealy_Model/Non_over_lapping
+w1760013183
+8sequence_detector_1011.v
+Fsequence_detector_1011.v
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1760104458.000000
+Z5 !s107 sequence_detector_1011.v|tb_seq_det.v|
+Z6 !s90 -reportprogress|300|tb_seq_det.v|
+!i113 1
+Z7 tCvgOpt 0
+vtop
+R0
+!i10b 1
+!s100 Vmc4fcN5dN@fmBjJhLnQV2
+I>fk5PBEQII2P;:bEhRV7g2
+R1
+R2
+w1760012982
+8tb_seq_det.v
+Ftb_seq_det.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
