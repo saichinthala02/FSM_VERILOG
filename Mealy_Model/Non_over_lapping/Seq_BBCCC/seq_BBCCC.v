@@ -9,7 +9,7 @@ module seq(clk,rst,din,pattern);
 	parameter S_BBCC  = 5'b10000;
 
 	parameter B = 1'b0;
-	parameter C = 1'b0;
+	parameter C = 1'b1;
 
 	input clk,rst,din;
 	output reg pattern;
@@ -51,3 +51,4 @@ module seq(clk,rst,din,pattern);
 	end
 	always@(next_state) state=next_state;
 endmodule
+
