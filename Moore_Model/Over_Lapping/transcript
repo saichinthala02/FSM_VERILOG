@@ -1,0 +1,23 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 11:10:27 on Oct 15,2025
+# vlog -reportprogress 300 tb_seq_det.v 
+# -- Compiling module seq_det
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 11:10:27 on Oct 15,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 11:10:27 on Oct 15,2025
+# Loading work.top
+# Loading work.seq_det
+# ** Note: $finish    : tb_seq_det.v(24)
+#    Time: 620 ps  Iteration: 0  Instance: /top
+# 1
+# Break in Module top at tb_seq_det.v line 24
+# End time: 11:11:04 on Oct 15,2025, Elapsed time: 0:00:37
+# Errors: 0, Warnings: 0

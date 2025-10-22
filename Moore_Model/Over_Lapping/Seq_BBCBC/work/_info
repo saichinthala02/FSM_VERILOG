@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/saich/OneDrive/Desktop/Sequential/FSM/Mealy_Model/Over_lapping/Seq_BBCBC
+vpattern
+Z0 !s110 1760546121
+!i10b 1
+!s100 J9G=I@@f14^PlW_]Xi@9F1
+I414>EmlTg;0ZCXzmHf`<J0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/saich/OneDrive/Desktop/Sequential/FSM/Moore_Model/Over_Lapping/Seq_BBCBC
+w1760546097
+8seq.v
+Fseq.v
+L0 3
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1760546121.000000
+Z5 !s107 seq.v|tb_seq.v|
+Z6 !s90 -reportprogress|300|tb_seq.v|
+!i113 1
+Z7 tCvgOpt 0
+vtop
+R0
+!i10b 1
+!s100 =6fTKZ8<JlWf912J22LHb1
+I]Zf2`oPRQ2VL9I7X@k7U@1
+R1
+R2
+w1760529544
+8tb_seq.v
+Ftb_seq.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
